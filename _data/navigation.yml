@@ -9,7 +9,8 @@
 
 main:
   - title: "Publications"
-    url: /publications/
+    #url: /publications/
+    url: "https://scholar.google.com/citations?hl=es&user=SzTvzoAAAAAJ&view_op=list_works&gmla=AElLoL2z0jXVdzZRwyQBwVqGmVaCACfh6Zu549ago2DMOWfp5tS7R99GVRwtX2eugvBFfILwzgwv3Ktn7kx8ShI8PCOI001bz2PqNDdH"
   - title: "Funding"
     url: /portfolio/
   - title: "Blog Posts"

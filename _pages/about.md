@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Patricia P Centeno"
+#title: "Patricia P Centeno"
 author_profile: true
 redirect_from: 
   - /about/

@@ -9,11 +9,11 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # the available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Patricia's homepage"
+title                    : "Patricia P Centeno"
 title_separator          : "-"
-name                     : &name "Patricia Centeno"
+name                     : &name "Patricia P Centeno"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://papacen222.github.io/Patricia.Centeno.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://Patricia.Centeno.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Patricia.Centeno.github.io"
@@ -26,7 +26,7 @@ author:
   avatar           : "Patricia_08-min.jpg"
   name             : "Patricia Centeno"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Postdoctoral Research Scientist interested in cancer initiation mechanisms"
   location         : #"Earth"
   employer         : "CRUK Scotland Institute"
   uri              : # URL
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/patricia-p-centeno-494269120/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
